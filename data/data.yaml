@@ -1,0 +1,7 @@
+train: C:\Coding\yolo_hat_jacket\data\train
+val: C:\Coding\yolo_hat_jacket\data\valid
+test: C:\Coding\yolo_hat_jacket\data\test
+
+nc: 3
+names: ['head', 'helmet', 'person']
+
